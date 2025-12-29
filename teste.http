@@ -1,0 +1,6 @@
+### Teste da Rota Inicial
+GET http://127.0.0.1:8000/
+
+###
+### Teste da Saudação Personalizada
+GET http://127.0.0.1:8000/saudar/Mayk
